@@ -7,7 +7,7 @@ Software Engineer and Pickleball Legend
 * 🌍  I'm based in Chicago, IL
 * ✉️  You can contact me at [donnell.reuben@icloud.com](mailto:donnell.reuben@icloud.com)
 * 🧠  I'm learning Ruby
-* ⚡  I'm secretly Spiderman, don't tell anybody
+* ⚡  Why did the coder quit his job? He didn't get arrays :D
 
 ### Skills
 

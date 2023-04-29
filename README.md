@@ -58,9 +58,6 @@ Software Engineer
   #### Digital Art
  ![bg9](https://user-images.githubusercontent.com/117698398/235279202-16cbb35d-8a5f-4b50-900b-c645af3e8314.jpg)
  
- 
- 
-
 
 ### Contact
 - :paperclip: [My Resume/CV] coming soon

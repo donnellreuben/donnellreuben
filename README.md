@@ -10,7 +10,7 @@ Software Engineer
 * ⚡  Why did the coder quit his job? He didn't get arrays 🤯
 
 
-Ruby:
+
 <a href="[https://www.ruby-lang.org/en/](https://www.ruby-lang.org/en/)" target="_blank" rel="noreferrer"><img src="[[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored-dark.svg](https://img.icons8.com/color/48/000000/ruby-programming-language.png)](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored-dark.svg)" width="36" height="36" alt="Ruby" /></a>
 
 Rails:

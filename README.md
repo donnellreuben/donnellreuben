@@ -28,13 +28,6 @@ Software Engineer
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donnellreuben&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-#### Bizness
-- :paperclip: [My Resume/CV](soon)
-- :email: donnell.reuben@icloud.com
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/donnellreuben" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/reubytuby" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/donnellreuben" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 
 ### Current Projects
@@ -52,8 +45,10 @@ Software Engineer
  
 
 
+#### Bizness
+- :paperclip: [My Resume/CV](soon)
+- :email: donnell.reuben@icloud.com
 
-[reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
-[vscodetutorial]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s
-[htmltutorial]: https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s
-[javascripttutorial]: https://www.youtube.com/watch?v=D-LHKvmX3
+### Socials
+
+<p align="left"> <a href="https://www.github.com/donnellreuben" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/reubytuby" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/donnellreuben" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>

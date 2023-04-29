@@ -10,7 +10,7 @@ Software Engineer
 * ⚡  Why did the coder quit his job? He didn't get arrays 🤯
 
 
-![Donnell's GitHub stats](https://github-readme-stats.vercel.app/api?username=donnellreuben&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donnellreubena&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Skills
 

@@ -8,9 +8,10 @@ Software Engineer and Pickleball Legend
 * ✉️  You can contact me at [donnell.reuben@icloud.com](mailto:donnell.reuben@icloud.com)
 * 🧠  I'm learning Ruby
 * ⚡  Why did the coder quit his job? He didn't get arrays :D
+![Donnell's GitHub stats](https://github-readme-stats.vercel.app/api?username=donnellreuben&show_icons=true&theme=radical)
 
 ### Skills
-![Donnell's GitHub stats](https://github-readme-stats.vercel.app/api?username=donnellreuben&show_icons=true&theme=radical)
+
 
 <p align="left">
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" /></a>

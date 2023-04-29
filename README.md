@@ -1,13 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Donnell Zachary Reuben
 ==============================================================================================================================================
 
-Software Engineer ⌨️
+Software Engineer 
 ---------------------------------------
 
 * 🌍  I'm based in Chicago, IL
 * ✉️  You can contact me at [donnell.reuben@icloud.com](mailto:donnell.reuben@icloud.com)
 * 🧠  I'm learning Ruby
-* ⚡  Why did the coder quit his job? He didn't get arrays :D
+* ⚡  Why did the coder quit his job? He didn't get arrays 🤯
 
 
 ![Donnell's GitHub stats](https://github-readme-stats.vercel.app/api?username=donnellreuben&show_icons=true&theme=radical)

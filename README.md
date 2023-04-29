@@ -12,12 +12,7 @@ Software Engineer
 
 
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored-dark.svg" width="36" height="36" alt="Ruby" /></a>
-
-Rails:
-<a href="[https://rubyonrails.org/](https://rubyonrails.org/)" target="_blank" rel="noreferrer"><img src="[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rails-colored-dark.svg](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rails-colored-dark.svg)" width="36" height="36" alt="Rails" /></a>
-
-JavaScript:
-<a href="[https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)" target="_blank" rel="noreferrer"><img src="[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored-dark.svg](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored-dark.svg)" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://rubyonrails.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rails-colored-dark.svg" width="36" height="36" alt="Rails" /></a>
 <a href="https://ruby.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" width="36" height="36" alt="Illustrator" /></a>

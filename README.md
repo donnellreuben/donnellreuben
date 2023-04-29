@@ -15,15 +15,6 @@ Software Engineer
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donnellreuben&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-#### Bizness
-- :paperclip: [My Resume/CV](soon)
-- :email: donnell.reuben@icloud.com
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/donnellreuben" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/reubytuby" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/donnellreuben" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
 #### Github Stats
 
 ![Donnell's github stats](https://github-readme-stats.vercel.app/api?username=donnellreuben&count_private=true&theme=tokyonight&hide=contribs,prs)
@@ -35,6 +26,8 @@ Software Engineer
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donnellreuben&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
+
+
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" width="36" height="36" alt="Illustrator" /></a>
 <a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored-dark.svg" width="36" height="36" alt="After Effects" /></a>
@@ -43,12 +36,13 @@ Software Engineer
 <a href="https://web3js.readthedocs.io/en/v1.7.1/#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" width="36" height="36" alt="Web3Js" /></a>
 </p>
 
+#### Bizness
+- :paperclip: [My Resume/CV](soon)
+- :email: donnell.reuben@icloud.com
 
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/donnellreuben" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/reubytuby" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/donnellreuben" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Badges
 
 <b>My GitHub Stats</b>
 

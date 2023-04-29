@@ -10,12 +10,10 @@ Software Engineer
 * ⚡  Why did the coder quit his job? He didn't get arrays 🤯
 
 
-#### Top Technologies
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donnellreuben&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-#### Github Stats
 
 ![Donnell's github stats](https://github-readme-stats.vercel.app/api?username=donnellreuben&count_private=true&theme=tokyonight&hide=contribs,prs)
 

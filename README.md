@@ -45,14 +45,14 @@ Software Engineer and Pickleball Legend
 <a href="http://www.github.com/donnellreuben"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=donnellreuben&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 ### Current Projects
-  ## ThreeJS
+  #### ThreeJS
 ![download](https://user-images.githubusercontent.com/117698398/235279188-cca590ef-fdc9-4cc5-8d3b-994b9ab98bbe.png)
 
   
-  ## Ruby
+  #### Ruby
 <img width="1722" alt="Screenshot 2023-04-28 at 8 49 34 PM" src="https://user-images.githubusercontent.com/117698398/235279052-3a6da9c5-24f9-4c3f-a083-7fde24a4871c.png">
 
-  ## Digital Art
+  #### Digital Art
  ![bg9](https://user-images.githubusercontent.com/117698398/235279202-16cbb35d-8a5f-4b50-900b-c645af3e8314.jpg)
  
  

@@ -5,7 +5,7 @@ Software Engineer
 ---------------------------------------
 
 * 🌍  I'm based in Chicago, IL
-* ✉️  You can contact me at [donnell.reuben@icloud.com](mailto:donnell.reuben@icloud.com)
+* ✉️  See Below for contact info
 * 🧠  I'm learning Ruby
 * ⚡  Why did the coder quit his job? He didn't get arrays 🤯
 
@@ -45,8 +45,8 @@ Software Engineer
  
 
 
-#### Bizness
-- :paperclip: [My Resume/CV](soon)
+### Contact
+- :paperclip: [My Resume/CV] coming soon
 - :email: donnell.reuben@icloud.com
 
 ### Socials

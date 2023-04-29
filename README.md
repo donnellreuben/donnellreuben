@@ -9,6 +9,7 @@ Software Engineer
 * 🧠  I'm learning Ruby
 * ⚡  Why did the coder quit his job? He didn't get arrays 🤯
 
+### Skillz
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -38,7 +39,7 @@ Software Engineer
 ![Uber](https://img.shields.io/badge/Uber-%23000000.svg?style=for-the-badge&logo=Uber&logoColor=white)
 
 
-<b>My GitHub Stats</b>
+###My GitHub Stats</b>
 
 
 <a href="http://www.github.com/donnellreuben"><img src="https://github-readme-streak-stats.herokuapp.com/?user=donnellreuben&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>

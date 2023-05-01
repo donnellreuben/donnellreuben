@@ -51,16 +51,10 @@ https://gist.github.com/donnellreuben/f88b1b4e6861b506d9273186af7b1c8f
 
 
 
-#### Current Projects
+#### Big Project
   ##### ThreeJS, Making a 3D Website starring my Tesla Model Y (wont spoil with any more details)
 ![download](https://user-images.githubusercontent.com/117698398/235279188-cca590ef-fdc9-4cc5-8d3b-994b9ab98bbe.png)
 
-  
-  ##### Ruby
-<img width="1722" alt="Screenshot 2023-04-28 at 8 49 34 PM" src="https://user-images.githubusercontent.com/117698398/235279052-3a6da9c5-24f9-4c3f-a083-7fde24a4871c.png">
-
-  ##### Digital Art
- ![bg9](https://user-images.githubusercontent.com/117698398/235279202-16cbb35d-8a5f-4b50-900b-c645af3e8314.jpg)
  
 
 #### Contact

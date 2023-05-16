@@ -58,7 +58,7 @@ https://gist.github.com/donnellreuben/f88b1b4e6861b506d9273186af7b1c8f
  
 
 #### Contact
-- :paperclip: [My Resume/CV](https://drive.google.com/file/d/1H2tgEYmNMhnK3Q8l8MeIXwp4vurx45tU/view?usp=share_link)
+- :paperclip: [My Resume/CV](https://drive.google.com/file/d/1AeolQ_cavdxtRHkYA3SLHGhuy3bxoZM-/view?usp=sharing)
 - :email: donnell.reuben@icloud.com
 
 #### Socials

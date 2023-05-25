@@ -47,7 +47,6 @@ https://gist.github.com/donnellreuben/f88b1b4e6861b506d9273186af7b1c8f
 
 <a href="http://www.github.com/donnellreuben"><img src="https://github-readme-streak-stats.herokuapp.com/?user=donnellreuben&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/donnellreuben"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=donnellreuben&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 
 

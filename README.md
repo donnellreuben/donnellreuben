@@ -6,7 +6,7 @@ Software Engineer
 
 * 🌍  I'm based in Chicago, IL
 * ✉️  See Below for contact info
-* 🧠  I'm learning Ruby
+* 🧠  I'm currently learning ThreeJS
 * 🕸️ https://reuby.tech/ 
 * ⚡  Why did the coder quit his job? He didn't get arrays 🤯
 

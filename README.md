@@ -6,8 +6,8 @@ Software Engineer
 
 * 🌍  I'm based in Chicago, IL
 * ✉️  See Below for contact info
-* 🧠  I'm currently learning ThreeJS
-* 🕸️ https://reuby.tech/ 
+* 🧠  Chat GPT stuff
+* 🕸️ https://reuby.tech/ (in develepment) 
 * ⚡  Why did the coder quit his job? He didn't get arrays 🤯
 
 #### Skillz
@@ -38,9 +38,6 @@ Software Engineer
 ![Apple Pay](https://img.shields.io/badge/ApplePay-000000.svg?style=for-the-badge&logo=Apple-Pay&logoColor=white)
 ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
 ![Uber](https://img.shields.io/badge/Uber-%23000000.svg?style=for-the-badge&logo=Uber&logoColor=white)
-
-#### Check out all of the things I have learned an am learning!
-https://gist.github.com/donnellreuben/f88b1b4e6861b506d9273186af7b1c8f
 
 #### My GitHub Stats
 

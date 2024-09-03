@@ -13,7 +13,7 @@ Hi! Experienced Software Tester with 6+ years of experience
 **Skills**
 
 * ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-* [Add other skills here with badges]
+* ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
 
 **Projects**
 

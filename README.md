@@ -26,7 +26,7 @@ Hi! Experienced Software Tester with 6+ years of experience
 
 **Projects**
 
-* **DinkLabs** (https://www.dinklabs.io) - [Short description of your project]
+* **DinkLabs** (https://www.dinklabs.io) [under developement]
 
 **Contact**
 

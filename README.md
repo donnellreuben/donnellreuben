@@ -7,7 +7,7 @@ Hi! Experienced Software Tester with 6+ years of experience
 **About Me**
 
 *  Based in Chicago, IL
-* ️ Website: https://www.linkedin.com/in/donnellreuben 
+* ️ Personal Website: https://www.reubytuby.tech 
 * ⚡ Passionate about software testing/development
 
 **Skills**

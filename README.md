@@ -11,7 +11,7 @@ SDET
 * ⚡  Why did the coder quit his job? He didn't get arrays 🤯
 
 #### Skillz
-![Java]
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 #### My GitHub Stats
 

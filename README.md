@@ -23,8 +23,8 @@ Founder of DinkLabs / SDET
 
 
 #### Big Project
-  ##### ThreeJS, Making a 3D Website starring my Tesla Model Y (wont spoil with any more details)
-![download](https://user-images.githubusercontent.com/117698398/235279188-cca590ef-fdc9-4cc5-8d3b-994b9ab98bbe.png)
+  ##### https://www.dinklabs.io && https://www.reuby.tech
+
 
  
 

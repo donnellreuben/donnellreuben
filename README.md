@@ -21,7 +21,10 @@ Founder of DinkLabs / SDET
 
 
 #### Big Project
-  ##### https://www.dinklabs.io && https://www.reuby.tech
+  ##### https://www.dinklabs.io 
+
+#### Personal Website  
+  ##### https://www.reuby.tech
 
 
  

@@ -5,9 +5,7 @@ Experienced SDET
 Founder of DinkLabs / SDET
 ---------------------------------------
 
-* 🌍  I'm based in Chicago, IL
-* ✉️  See Below for contact info
-* 🧠  Chat GPT stuff
+* 🌍  Based in Chicago, IL
 * 🕸️ https://dinklabs.io (in develepment) 
 * ⚡  Why did the coder quit his job? He didn't get arrays 🤯
 
@@ -29,8 +27,7 @@ Founder of DinkLabs / SDET
  
 
 #### Contact
-- :paperclip: [My Resume/CV](https://docs.google.com/document/d/1SZpp2-YHnn6Br0_BtBjtiuz-SHvxYArZrr_Pr0DKy3Y/edit?usp=sharing)
-- :email: donnell.reuben@icloud.com
+- :email: dreuben@dinklabs.io
 
 #### Socials
 

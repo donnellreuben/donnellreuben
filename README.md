@@ -1,18 +1,18 @@
 # Donnell Reuben
 
-Hi!   [Short Bio about yourself]
+Hi! Experienced Software Tester with 6+ years of experience
 
 **SDET | Founder of DinkLabs**
 
 **About Me**
 
 *  Based in Chicago, IL
-* ️ Website: https://www.linkedin.com/in/donnellreuben (Under Development)
-* ⚡ Passionate about software development
+* ️ Website: https://www.linkedin.com/in/donnellreuben 
+* ⚡ Passionate about software testing/development
 
 **Skills**
 
-* Java  [Badge for Java using shields.io]
+* Java  [https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white]
 * [Add other skills here with badges]
 
 **Projects**
